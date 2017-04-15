@@ -13,3 +13,5 @@ usage: dif_generator.lua lines_per_mm dpi > grid.svg
 
 I spent $5 for this paper set only.
 
+#difraction grate, #difraction, #telescope, #stars, #custom,
+#handmade, #difractiongrate
